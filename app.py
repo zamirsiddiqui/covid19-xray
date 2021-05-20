@@ -5,7 +5,6 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
 import streamlit as st
 from PIL import Image
-import cv2
 import os
 
 model = load_model('model_covid.h5')
