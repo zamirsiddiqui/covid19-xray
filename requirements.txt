@@ -33,10 +33,6 @@ dbus-python==1.2.16
 decorator==4.4.2
 defusedxml==0.6.0
 distro==1.4.0
-distro-info===0.23ubuntu1
-docutils==0.15.2
-docx==0.2.4
-duplicity==0.8.12.0
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
 entrypoints==0.3
 example==0.1.0
