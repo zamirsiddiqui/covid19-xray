@@ -25,7 +25,6 @@ clean-text==0.2.1
 cleanco==2.0.1
 Click==7.0
 colorama==0.4.3
-command-not-found==0.3
 conllu==4.1
 cryptography==2.8
 cupshelpers==1.0
