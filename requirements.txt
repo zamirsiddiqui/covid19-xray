@@ -38,7 +38,6 @@ entrypoints==0.3
 example==0.1.0
 fasteners==0.14.1
 filelock==3.0.12
-find-job-titles @ file:///home/oem/Documents/orgtitle/find_job_titles.tar.xz
 fire==0.3.1
 flatbuffers==1.12
 fpdf==1.7.2
@@ -65,7 +64,6 @@ ipywidgets==7.5.1
 jedi==0.17.1
 Jinja2==2.11.2
 jmespath==0.10.0
-job-titles-finder @ file:///home/oem/Documents/job_titles_finder.tar.xz
 joblib==0.16.0
 jsonnet==0.16.0
 jsonpickle==1.4.1
@@ -116,7 +114,6 @@ parso==0.7.0
 PDF-Layout-Scanner==1.3.3
 pdf2docx==0.3.2
 pdfminer.six==20200517
-pdfplumber @ file:///home/oem/Downloads/pdfplumber-stable.zip
 pexpect==4.6.0
 phonenumbers==8.12.6
 pickleshare==0.7.5
