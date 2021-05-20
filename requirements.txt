@@ -27,7 +27,6 @@ Click==7.0
 colorama==0.4.3
 conllu==4.1
 cryptography==2.8
-cupshelpers==1.0
 cymem==2.0.3
 Cython==0.29.21
 dbus-python==1.2.16
