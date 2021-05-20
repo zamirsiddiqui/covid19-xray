@@ -1,4 +1,4 @@
 pip
-tensorflow --use-feature=2020-resolver
+tensorflow-cpu --use-feature=2020-resolver
 numpy --use-feature=2020-resolver
 streamlit --use-feature=2020-resolver
